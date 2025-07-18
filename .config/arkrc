@@ -1,0 +1,15 @@
+[ExtractDialog]
+2 screens: Height=636
+2 screens: Width=1426
+DirHistory[$e]=$HOME/Downloads/,$HOME/Desktop/,$HOME/Dev/jetbrains-icons/,/run/media/carter/Ventoy/,$HOME/.local/share/Steam/steamapps/common/Airport CEO/
+
+[Extraction]
+closeAfterExtraction=true
+openDestinationFolderAfterExtraction=true
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+StatusBar=Disabled

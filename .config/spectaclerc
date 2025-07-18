@@ -1,0 +1,14 @@
+[General]
+clipboardGroup=PostScreenshotCopyImage
+
+[GuiConfig]
+captureMode=0
+includePointer=true
+
+[ImageSave]
+lastImageSaveAsLocation=file:///home/carter/Sync/Fall 2025 Class Schedule.png
+lastImageSaveLocation=file:///home/carter/Sync/Fall 2025 Class Schedule.png
+translatedScreenshotsFolder=Screenshots
+
+[VideoSave]
+translatedScreencastsFolder=Screencasts

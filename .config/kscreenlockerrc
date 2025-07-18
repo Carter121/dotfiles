@@ -1,0 +1,6 @@
+[Greeter][Wallpaper][org.kde.image][General]
+Image=/home/carter/Pictures/677357.png
+PreviewImage=/home/carter/Pictures/677357.png
+
+[Greeter][Wallpaper][org.kde.potd][General]
+FillMode=2

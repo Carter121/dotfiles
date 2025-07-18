@@ -1,0 +1,162 @@
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=56,56,56
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+Enable=
+IntensityAmount=0.1
+IntensityEffect=2
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=false
+Color=112,111,110
+ColorAmount=0.9500000000000001
+ColorEffect=0
+ContrastAmount=0.1
+ContrastEffect=0
+Enable=true
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=145,69,86
+BackgroundNormal=47,52,58
+DecorationFocus=187,77,98
+DecorationHover=187,77,98
+ForegroundActive=187,77,98
+ForegroundInactive=160,160,160
+ForegroundLink=233,189,195
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=255,102,102
+
+[Colors:Complementary]
+BackgroundAlternate=38,41,46
+BackgroundNormal=38,41,46
+DecorationFocus=187,77,98
+DecorationHover=187,77,98
+ForegroundActive=187,77,98
+ForegroundInactive=161,169,177
+ForegroundLink=233,189,195
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
+
+[Colors:Selection]
+BackgroundAlternate=142,66,82
+BackgroundNormal=142,66,82
+DecorationFocus=187,77,98
+DecorationHover=187,77,98
+ForegroundActive=187,77,98
+ForegroundInactive=255,255,255
+ForegroundLink=136,56,72
+ForegroundNegative=176,55,69
+ForegroundNeutral=198,92,0
+ForegroundNormal=255,255,255
+ForegroundPositive=23,104,57
+ForegroundVisited=255,102,102
+
+[Colors:Tooltip]
+BackgroundAlternate=42,46,50
+BackgroundNormal=46,50,56
+DecorationFocus=187,77,98
+DecorationHover=187,77,98
+ForegroundActive=187,77,98
+ForegroundInactive=160,160,160
+ForegroundLink=233,189,195
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=255,102,102
+
+[Colors:View]
+BackgroundAlternate=38,41,46
+BackgroundNormal=38,41,46
+DecorationFocus=187,77,98
+DecorationHover=187,77,98
+ForegroundActive=187,77,98
+ForegroundInactive=160,160,160
+ForegroundLink=233,189,195
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=255,102,102
+
+[Colors:Window]
+BackgroundAlternate=38,41,46
+BackgroundNormal=38,41,46
+DecorationFocus=187,77,98
+DecorationHover=187,77,98
+ForegroundActive=187,77,98
+ForegroundInactive=160,160,160
+ForegroundLink=233,189,195
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=255,102,102
+
+[DirSelect Dialog]
+DirSelectDialog Size=820,572
+History Items[$e]=file:$HOME/Documents/MoeDark,file:$HOME/Pictures,file:$HOME/Downloads,file:///run/media/carter/Ventoy,file:$HOME/Windows Shared,file:$HOME/Desktop,file:$HOME/Desktop,file:$HOME/Desktop/Share Temp,file:$HOME/Desktop/Share Temp,file:$HOME/Dev/CS2420,file:$HOME/Dev/march-madness-cpp,file:$HOME/Documents/Vivid-Dark-Kvantum,file:$HOME/Sync,file:$HOME/Desktop,file:///run/media/carter/MY STUFF,file:$HOME/rdio-scanner
+Splitter State=\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\x8c\x00\x00\x02\xa8\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+
+[General]
+AccentColor=187,77,98
+ColorSchemeHash=2f6a5cf5eda8ad2413923ae2c70b3738981503f3
+TerminalApplication=alacritty
+TerminalService=Alacritty.desktop
+XftAntialias=true
+XftHintStyle=hintslight
+XftSubPixel=rgb
+accentColorFromWallpaper=true
+fixed=FiraCode Nerd Font Mono,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+
+[Icons]
+Theme=Tela-red-dark
+
+[KDE]
+AnimationDurationFactor=0.5
+LookAndFeelPackage=Vivid-Dark-Global-6
+ShowDeleteCommand=false
+widgetStyle=kvantum-dark
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=false
+Decoration position=2
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Show Bookmarks=false
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=false
+Speedbar Width=140
+View Style=DetailTree
+
+[PreviewSettings]
+EnableRemoteFolderThumbnail=false
+MaximumRemoteSize=0
+
+[WM]
+activeBackground=38,41,46
+activeBlend=38,41,46
+activeForeground=252,252,252
+inactiveBackground=38,41,46
+inactiveBlend=38,41,46
+inactiveForeground=177,177,177
