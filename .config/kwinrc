@@ -6,7 +6,10 @@ AllowTearing=false
 
 [Desktops]
 Id_1=6b6cfb89-8ad2-4ddb-9dc2-1f6507534bdc
-Number=1
+Id_2=64c79849-def8-4462-8a44-9e5729154cd3
+Name_1=Main
+Name_2=Secondary
+Number=2
 Rows=1
 
 [Effect-diminactive]
@@ -38,7 +41,7 @@ NightTemperature=4600
 [Plugins]
 blurEnabled=true
 contrastEnabled=true
-desktopchangeosdEnabled=false
+desktopchangeosdEnabled=true
 diminactiveEnabled=true
 hidecursorEnabled=true
 squashEnabled=false
@@ -66,6 +69,9 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][567db496-87d9-5577-8026-6a31c6589c4e]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][64c79849-def8-4462-8a44-9e5729154cd3][e808e99e-301b-484e-bd80-b8c097f1acf8]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][692fa4e6-cede-5153-a17d-c74c875cf0e1]
@@ -106,6 +112,9 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 
 [Tiling][f3593e5e-376b-5846-823b-f6bc7d1e43ba]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Windows]
+RollOverDesktops=true
 
 [Xwayland]
 Scale=1

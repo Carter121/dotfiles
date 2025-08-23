@@ -105,8 +105,8 @@ ForegroundPositive=39,174,96
 ForegroundVisited=255,102,102
 
 [DirSelect Dialog]
-DirSelectDialog Size=820,572
-History Items[$e]=file:$HOME/Documents/MoeDark,file:$HOME/Pictures,file:$HOME/Downloads,file:///run/media/carter/Ventoy,file:$HOME/Windows Shared,file:$HOME/Desktop,file:$HOME/Desktop,file:$HOME/Desktop/Share Temp,file:$HOME/Desktop/Share Temp,file:$HOME/Dev/CS2420,file:$HOME/Dev/march-madness-cpp,file:$HOME/Documents/Vivid-Dark-Kvantum,file:$HOME/Sync,file:$HOME/Desktop,file:///run/media/carter/MY STUFF,file:$HOME/rdio-scanner
+DirSelectDialog Size=960,600
+History Items[$e]=file:$HOME/Dev/work-app,file:$HOME/Documents/MoeDark,file:$HOME/Pictures,file:$HOME/Downloads,file:///run/media/carter/Ventoy,file:$HOME/Windows Shared,file:$HOME/Desktop,file:$HOME/Desktop,file:$HOME/Desktop/Share Temp,file:$HOME/Desktop/Share Temp,file:$HOME/Dev/CS2420,file:$HOME/Dev/march-madness-cpp,file:$HOME/Documents/Vivid-Dark-Kvantum,file:$HOME/Sync,file:$HOME/Desktop,file:///run/media/carter/MY STUFF,file:$HOME/rdio-scanner
 Splitter State=\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\x8c\x00\x00\x02\xa8\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
 
 [General]

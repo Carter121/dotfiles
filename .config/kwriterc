@@ -87,7 +87,7 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [MainWindow]
-1920x1200 screen: Height=1116
-1920x1200 screen: Width=763
+1920x1200 screen: Height=1130
+1920x1200 screen: Width=959
 2 screens: Height=764
 2 screens: Width=1357

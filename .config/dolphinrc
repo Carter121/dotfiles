@@ -2,7 +2,7 @@
 1920x1200 screen: Height=600
 1920x1200 screen: Width=1258
 2 screens: Height=480
-2 screens: Width=858
+2 screens: Width=831
 DirHistory[$e]=$HOME/Documents/,$HOME/Desktop/Assign06 Canvas Page/,$HOME/Desktop/
 
 [General]
@@ -15,9 +15,6 @@ Places Icons Static Size=22
 
 [PreviewSettings]
 Plugins=ffmpegthumbnailer,appimagethumbnail,comicthumb,com,audiothumbnail,avif,comicbookthumbnail,cursorthumbnail,dds,djvu,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,heif,imagethumbnail,jpegthumbnail,jxl,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,gsf-office,opendocumentthumbnail,stl,svgthumbnail,text,gdk-pixbuf-thumbnailer
-
-[Search]
-Location=Everywhere
 
 [ViewPropertiesDialog]
 1920x1200 screen: Height=584

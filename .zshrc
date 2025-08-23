@@ -102,3 +102,6 @@ export PATH=$PATH:~/.spoofdpi/bin
 bindkey "^[[1;5C" forward-word
 bindkey "^[[1;5D" backward-word
 bindkey "^H" backward-kill-word
+
+# Bitwarden SSH
+export SSH_AUTH_SOCK=/home/carter/.bitwarden-ssh-agent.sock

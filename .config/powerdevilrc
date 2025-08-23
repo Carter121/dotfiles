@@ -4,7 +4,7 @@ DimDisplayWhenIdle=false
 DisplayBrightness=100
 
 [AC][Performance]
-PowerProfile=performance
+PowerProfile=balanced
 
 [AC][SuspendAndShutdown]
 AutoSuspendAction=0

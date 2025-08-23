@@ -7,26 +7,26 @@ SideBarPage=operations
 MenuBar=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/Pictures/Screenshots/Screenshot_20250302_174743.png
-File10[$e]=$HOME/Desktop/plot.svg
-File2[$e]=$HOME/Sync/quick-sort-with-first-pivot.png
-File3[$e]=$HOME/Downloads/Patient assessment form-1(1)_page-0001.jpg
-File4[$e]=afc://00008120-00065de80285a01e/DCIM/101APPLE/IMG_1193.HEIC
-File5[$e]=$HOME/Downloads/option2_1.png
-File6[$e]=$HOME/Downloads/option4.png
-File7[$e]=$HOME/Downloads/option3.png
-File8[$e]=$HOME/Desktop/out.png
-File9[$e]=$HOME/Desktop/out.jpeg
-Name1[$e]=Screenshot_20250302_174743.png
-Name10[$e]=plot.svg
-Name2[$e]=quick-sort-with-first-pivot.png
-Name3[$e]=Patient assessment form-1(1)_page-0001.jpg
-Name4[$e]=IMG_1193.HEIC
-Name5[$e]=option2_1.png
-Name6[$e]=option4.png
-Name7[$e]=option3.png
-Name8[$e]=out.png
-Name9[$e]=out.jpeg
+File1[$e]=$HOME/Downloads/Patient assessment form-1(1)_page-0001.jpg
+File10[$e]=$HOME/Sync/Fall 2025 Class Schedule.png
+File2[$e]=afc://00008120-00065de80285a01e/DCIM/101APPLE/IMG_1193.HEIC
+File3[$e]=$HOME/Downloads/option2_1.png
+File4[$e]=$HOME/Downloads/option4.png
+File5[$e]=$HOME/Downloads/option3.png
+File6[$e]=$HOME/Desktop/out.png
+File7[$e]=$HOME/Desktop/out.jpeg
+File8[$e]=$HOME/Desktop/plot.svg
+File9[$e]=$HOME/Downloads/cumulative_pnl_no_ixhl.png
+Name1[$e]=Patient assessment form-1(1)_page-0001.jpg
+Name10[$e]=Fall 2025 Class Schedule.png
+Name2[$e]=IMG_1193.HEIC
+Name3[$e]=option2_1.png
+Name4[$e]=option4.png
+Name5[$e]=option3.png
+Name6[$e]=out.png
+Name7[$e]=out.jpeg
+Name8[$e]=plot.svg
+Name9[$e]=cumulative_pnl_no_ixhl.png
 
 [SideBar]
 InformationSplitterSizes=220,255

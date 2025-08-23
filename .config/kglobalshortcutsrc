@@ -4,12 +4,12 @@ switch-to-activity-a9194c78-28db-4407-962f-d789b18c3678=none,none,Switch to acti
 
 [KDE Keyboard Layout Switcher]
 Switch keyboard layout to English (US, intl., AltGr Unicode combining)=none,none,Switch keyboard layout to English (US\\, intl.\\, AltGr Unicode combining)
-Switch to Last-Used Keyboard Layout=Meta+Alt+L,Meta+Alt+L,Switch to Last-Used Keyboard Layout
-Switch to Next Keyboard Layout=Meta+Alt+K,Meta+Alt+K,Switch to Next Keyboard Layout
+Switch to Last-Used Keyboard Layout=none,Meta+Alt+L,Switch to Last-Used Keyboard Layout
+Switch to Next Keyboard Layout=none,Meta+Alt+K,Switch to Next Keyboard Layout
 _k_friendly_name=Keyboard Layout Switcher
 
 [kaccess]
-Toggle Screen Reader On and Off=Meta+Alt+S,Meta+Alt+S,Toggle Screen Reader On and Off
+Toggle Screen Reader On and Off=none,Meta+Alt+S,Toggle Screen Reader On and Off
 _k_friendly_name=Accessibility
 
 [kmix]
@@ -245,7 +245,7 @@ activate task manager entry 7=none,Meta+7,Activate Task Manager Entry 7
 activate task manager entry 8=none,Meta+8,Activate Task Manager Entry 8
 activate task manager entry 9=none,Meta+9,Activate Task Manager Entry 9
 activate widget 125=none,none,Activate Application Launcher Widget
-activate widget 176=none,none,Activate Pager Widget
+activate widget 176=Meta+Shift+P,none,Activate Pager Widget
 activate widget 177=none,none,Activate Icons-Only Task Manager Widget
 activate widget 180=none,none,Activate System Tray Widget
 activate widget 223=none,none,Activate Application Launcher Widget
