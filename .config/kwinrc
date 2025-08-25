@@ -71,6 +71,12 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 [Tiling][567db496-87d9-5577-8026-6a31c6589c4e]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
+[Tiling][64c79849-def8-4462-8a44-9e5729154cd3][5f2dc33b-798d-4a89-8f03-846e9e0094b5]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][64c79849-def8-4462-8a44-9e5729154cd3][e775748b-705f-4c63-9861-dbb0267e0edc]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][64c79849-def8-4462-8a44-9e5729154cd3][e808e99e-301b-484e-bd80-b8c097f1acf8]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
@@ -117,7 +123,7 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 RollOverDesktops=true
 
 [Xwayland]
-Scale=1
+Scale=0.85
 
 [org.kde.kdecoration2]
 ButtonsOnLeft=M
